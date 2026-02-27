@@ -1,7 +1,7 @@
 {
+  "expiration_date": "2026-02-27 18:30:05",
+  "status_active": true,
   "premium_delay_min": 2.0,
   "premium_delay_max": 4.0,
-  "expiration_date": "2026-2-27",
-  "announcement": "Free version detected",
-  "status_active": true
+  "announcement": "Update available!"
 }
