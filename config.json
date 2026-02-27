@@ -1,7 +1,5 @@
 {
-  "countdown_end": "2026-02-27 23:59:59",
-  "status_active": true,
+  "countdown_end": "2026-03-05 18:00:00",
   "premium_delay_min": 2.0,
-  "premium_delay_max": 4.0,
-  "announcement": "New update!"
+  "premium_delay_max": 4.0
 }
